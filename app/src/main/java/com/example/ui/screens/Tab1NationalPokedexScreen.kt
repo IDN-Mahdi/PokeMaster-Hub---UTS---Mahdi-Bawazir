@@ -778,7 +778,7 @@ fun Tab1NationalPokedexScreen(
 
                 // ROW 3: MODE DASHBOARD (Compact Like/Dislike Ratio Capsule OR Tracker 3 Summary Cards)
                 if (pageMode == PokedexPageMode.LOVE_EM_ALL_PICKER) {
-                    // COMPACT LIKE/DISLIKE RATIO CAPSULE (from /public/assets/aistudio/maunya_kegini_2ab7cd40.png)
+                    // COMPACT LIKE/DISLIKE RATIO CAPSULE
                     Box(
                         modifier = Modifier.fillMaxWidth(),
                         contentAlignment = Alignment.Center
