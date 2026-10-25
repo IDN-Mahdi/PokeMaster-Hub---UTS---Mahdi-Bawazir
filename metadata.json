@@ -1,0 +1,6 @@
+{
+  "name": "PokéMaster Hub",
+  "description": "National 1025 & HGSS Tactical Suite - Competitive Tiering, Johto Curator, Party Builder & Type Mentor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
